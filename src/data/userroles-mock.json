@@ -1,0 +1,19 @@
+[
+    {
+        "resourceId": "SYSTEM_MAINTENANCE",
+        "authenticationId": "DIVA_ADMIN",
+        "codeAuthType": "GROUP",
+        "flagAdminAccess": "Y",
+        "flagReadAccess": "Y",
+        "flagWriteAccess": "Y",
+        "flagDevAccess": "N"
+    },
+    {
+        "resourceId": "SYSTEM_MAINTENANCE",
+        "authenticationId": "DIVA_AUTH_ADMIN",
+        "codeAuthType": "GROUP",
+        "flagAdminAccess": "N",
+        "flagReadAccess": "Y",
+        "flagWriteAccess": "Y",
+        "flagDevAccess": "N"
+    }]
